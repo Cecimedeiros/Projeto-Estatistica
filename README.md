@@ -195,3 +195,5 @@ analise_ecommerce.ipynb
 https://dbdiagram.io/home
 # Dataset
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+# Docs
+https://docs.google.com/document/d/1v-STInnRTq2ZK3R7JGL8Foiwf2uE2n9ELy94gF9GbSg/edit?usp=sharing
