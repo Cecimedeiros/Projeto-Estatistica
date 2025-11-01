@@ -1,0 +1,14 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Cache do VSCode / Jupyter
+.ipynb_checkpoints/
+.vscode/
+*.log
+
+# Cache do KaggleHub
+.cache/
