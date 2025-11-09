@@ -1,0 +1,8 @@
+Métrica,N,Estimativa,IC_95_Lower,IC_95_Upper
+Ticket Médio (R$),98658,160.57,159.19,161.94
+Valor do Frete (R$),98658,22.82,22.69,22.96
+Prazo de Entrega (dias),96476,12.09,12.03,12.15
+Atraso na Entrega (dias),6534,10.62,10.26,10.98
+Taxa de Atraso (%),96478,6.77,6.62,6.93
+Taxa de Confirmação (%),98658,97.79,97.70,97.88
+Taxa de Cancelamento (%),98658,0.47,0.43,0.51

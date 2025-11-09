@@ -1,0 +1,6 @@
+id,categoria,insight,acao
+1,Receita,Clientes que pagam com cartão de crédito têm ticket médio 14.7% maior (R$ 166.20) que boleto (R$ 144.91),Incentivar pagamento com cartão através de cashback ou parcelamento sem juros
+2,Logística,Região Norte tem taxa de atraso 8.6% vs 6.1% no Sudeste - diferença de 2.5 pontos percentuais,Revisar parceiros logísticos no Norte e ajustar prazos estimados para reduzir insatisfação
+3,Frete,Frete representa 14.21% da receita total - valor significativo que impacta margem,Negociar melhores tarifas com transportadoras e considerar frete grátis acima de valor mínimo
+4,Sazonalidade,Crescimento de 4058.8% no volume de pedidos comparando início e fim do período,"Preparar estoque e capacidade logística para períodos de pico (Black Friday, Natal)"
+5,Conversão,"Taxa de cancelamento de 0.47% é baixa, mas representa 461 pedidos perdidos",Investigar motivos de cancelamento e implementar recuperação de carrinho abandonado
