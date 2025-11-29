@@ -107,7 +107,7 @@ Para replicar esta análise, siga os passos abaixo:
 ## 📚 Dataset e Fontes
 
 * **Dataset Principal:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-* **Ferramenta para DER:** [dbdiagram.io](https://dbdiagram.io/home) (mencionada na documentação).
+* **Ferramenta para DER:** [dbdiagram.io](https://dbdiagram.io/home).
 * **Relatório Analítico:** [Análise de Dados do E-commerce da Olist](https://docs.google.com/document/d/1tBM2px2vRkQY8Znir0d2MBHUOaSJqfRHwGgpZsUXcj0/edit?tab=t.0#heading=h.nkk3jc8d0p43)
 
 ---
